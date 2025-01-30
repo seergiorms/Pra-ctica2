@@ -1,36 +1,60 @@
 [{
     "id": 1,
-    "autor": "Paula Bailach y Duna Estrada",
-    "titulo": "Euterpe",
-    "texto": "Nuestra web es una tienda online de vinilos, CD y casetes. En ella hemos incluido una breve presentación de la marca, algunos de nuestros productos, información de contacto, un apartado de ofertas, una barra de navegación y enlaces a las páginas de algunos artistas. También hay otros elementos decorativos como un P5JS, un net art y un Intrinsic Web Design."
+    "autor": "Miopía degenerativa",
+    "titulo": "Ana Rodríguez: 34 años, mujer española",
+    "texto": "Le costó leer el contenido debido al bajo contraste y el tamaño pequeño de la fuente, pero logró adaptarse con la opción de aumentar el tamaño de texto."
 },
 {
     "id": 2,
-    "autor": "Eudald Cardozo Vallhonrat, David Garcia Aybar",
-    "titulo": "FactoSaurio",
-    "texto": "La teva pàgina de referència per a tota la (des)informació sobre dinosaures que puguis necessitar"
+    "autor": "Parálisis cerebral (dificultad en el control del ratón)",
+    "titulo": "Javier López: 45 años, hombre argentino",
+    "texto": "Le resultó complicado hacer clic en los botones porque se movían, lo que le generó frustración. Prefirió usar el teclado."
 },
 {
     "id": 3,
-    "autor": "Paula Bailach y Duna Estrada",
-    "titulo": "Euterpe",
-    "texto": "Nuestra web es una tienda online de vinilos, CD y casetes. En ella hemos incluido una breve presentación de la marca, algunos de nuestros productos, información de contacto, un apartado de ofertas, una barra de navegación y enlaces a las páginas de algunos artistas. También hay otros elementos decorativos como un P5JS, un net art y un Intrinsic Web Design."
+    "autor": "Ninguna discapacidad",
+    "titulo": "Maria Durán: 28 años, mujer española",
+    "texto": "No tuvo problemas, pero se dio cuenta de las dificultades que pueden enfrentar otros usuarios."
 },
 {
     "id": 4,
-    "autor": "Eudald Cardozo Vallhonrat, David Garcia Aybar",
-    "titulo": "FactoSaurio",
-    "texto": "La teva pàgina de referència per a tota la (des)informació sobre dinosaures que puguis necessitar"
+    "autor": "Glaucoma avanzado (baja visión)",
+    "titulo": "Lucas Silva: 52 años, hombre español",
+    "texto": "No pudo leer ciertos textos debido a los colores utilitzados para el texto y el fondo y necesitó aumentar mucho el zoom del navegador."
 }, 
 {
     "id": 5,
-    "autor": "Paula Bailach y Duna Estrada",
-    "titulo": "Euterpe",
-    "texto": "Nuestra web es una tienda online de vinilos, CD y casetes. En ella hemos incluido una breve presentación de la marca, algunos de nuestros productos, información de contacto, un apartado de ofertas, una barra de navegación y enlaces a las páginas de algunos artistas. También hay otros elementos decorativos como un P5JS, un net art y un Intrinsic Web Design."
+    "autor": "Ninguna discapacidad",
+    "titulo": "Naomi Carter: 23 años, mujer estadounidense",
+    "texto": "Le pareció una experiencia frustrante debido a los elementos difíciles de ver o hacer clic, lo que le ayudó a comprender la importancia de la accesibilidad."
 },
 {
     "id": 6,
-    "autor": "Eudald Cardozo Vallhonrat, David Garcia Aybar",
-    "titulo": "FactoSaurio",
-    "texto": "La teva pàgina de referència per a tota la (des)informació sobre dinosaures que puguis necessitar"
+    "autor": "Retinosis pigmentaria (baja visión)",
+    "titulo": "David Moya: 39 años, hombre español",
+    "texto": "Le costó navegar por la web debido a la falta de compatibilidad con lectores de pantalla."
+},
+{
+    "id": 6,
+    "autor": "Distrofia muscular (dificultad para usar el ratón)",
+    "titulo": "Sofía Fernández: 30 años, mujer mexicana",
+    "texto": "Los botones en movimiento le dificultaron la navegación. Pudo usar el teclado, pero hubiera preferido opciones más accesibles."
+},
+{
+    "id": 6,
+    "autor": "Baja visión relacionada con la edad",
+    "titulo": "Pierre Martin: 60 años, hombre francés",
+    "texto": "Apreciaría una opción de modo alto contraste y textos más grandes por defecto."
+},
+{
+    "id": 6,
+    "autor": "Ninguna discapacidad",
+    "titulo": "Aisha Kamara: 19 años, mujer nigeriana",
+    "texto": "Se sintió frustrada con las dificultades, lo que la hizo reflexionar sobre la importancia de la accesibilidad."
+},
+{
+    "id": 6,
+    "autor": "Tetraplejia parcial (uso limitado de las manos)",
+    "titulo": "Tomás Herrera: 50 años, hombre español",
+    "texto": "Necesitó ayuda de herramientas de accesibilidad porque los botones pequeños y en movimiento le dificultaron la navegación."
 }]
